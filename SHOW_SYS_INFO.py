@@ -1,2 +1,2 @@
-from Folder1.SYSTEM_INFO import get_system_details
+from SYSTEM_INFO import get_system_details
 get_system_details()
