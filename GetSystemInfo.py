@@ -1,0 +1,2 @@
+from SYSTEM_INFO import get_system_details
+get_system_details()
